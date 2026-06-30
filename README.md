@@ -297,7 +297,7 @@ Possible enhancements:
 
 # 👩‍💻 Author
 
-**Minal**  
+**Minal**  **Sadiq**
 Data Science Student  
 Machine Learning Enthusiast
 
